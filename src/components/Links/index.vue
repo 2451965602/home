@@ -66,12 +66,12 @@ let linksData = [
   {
     icon: Microchip,
     name: "网址集",
-    link: "https://time.fjyxyz.ml/",
+    link: "https://www.yourang.top/",
   },
   {
     icon: Flask,
     name: "实验室",
-    link: "https://lab.yourang.top/",
+    link: "https://www.yourang.top/",
   },
 ];
 
