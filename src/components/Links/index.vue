@@ -33,7 +33,7 @@ import { Icon } from "@vicons/utils";
 import {
   Link,
   Blog,
-  CompactDisc,
+  CloudDownloadAlt,
   Cloud,
   Compass,
   Book,
@@ -46,22 +46,22 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://blog.yourang.top/",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.imsyy.top/",
+    link: "https://alist.yourang.top/",
   },
   {
-    icon: CompactDisc,
+    icon: CloudDownloadAlt,
     name: "音乐",
-    link: "https://music.imsyy.top/",
+    link: "https://alist.yourang.top/",
   },
   {
     icon: Compass,
     name: "起始页",
-    link: "https://nav.imsyy.top/",
+    link: "https://www.yourang.top/",
   },
   {
     icon: Book,
