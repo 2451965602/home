@@ -36,7 +36,7 @@ import {
   CloudDownloadAlt,
   Cloud,
   Compass,
-  Book,
+  Microchip,
   Flask,
 } from "@vicons/fa";
 
@@ -64,14 +64,14 @@ let linksData = [
     link: "https://www.yourang.top/",
   },
   {
-    icon: Book,
+    icon: Microchip,
     name: "网址集",
-    link: "https://web.imsyy.top/",
+    link: "https://time.fjyxyz.ml/",
   },
   {
     icon: Flask,
     name: "实验室",
-    link: "https://lab.imsyy.top/",
+    link: "https://lab.yourang.top/",
   },
 ];
 
