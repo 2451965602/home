@@ -15,23 +15,18 @@
     "link": "https://music.yourang.top/"
   },
   {
-    "icon": "Rocketchat",
-    "name": "起始页",
-    "link": "https://chat.yourang.top/"
+    "icon": "MoviesAndTv16Filled",
+    "name": "电影",
+    "link": "https://video.yourang.top/"
   },
   {
-    "icon": "Server",
-    "name": "网址集",
-    "link": "https://one.yourang.top/"
+    "icon": "NavigationRound",
+    "name": "书签",
+    "link": "https://nav.yourang.top/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.yourang.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.yourang.top/"
+    "link": "https://news.yourang.top/"
   }
 ]
